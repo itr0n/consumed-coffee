@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://itr0n.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map https://itr0n.github.io/consumed-coffee/
 - Google Sheets template https://docs.google.com/spreadsheets/d/14XNdAbW-fDQ0lFPaChu9hPXJc4wM52WiKk7ooYWbX4E/edit#gid=0
 
 ## Create your own
